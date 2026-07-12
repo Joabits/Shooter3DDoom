@@ -1,0 +1,34 @@
+# ===== Unity: carpetas generadas (no se versionan) =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# ===== Archivos de IDE y proyectos generados =====
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# ===== Sistema operativo =====
+.DS_Store
+__MACOSX/
+Thumbs.db
+desktop.ini
+
+# ===== Builds y paquetes =====
+*.apk
+*.aab
+*.unitypackage
+*.app
